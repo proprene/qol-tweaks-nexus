@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/github/downloads/proprene/qol-tweaks-nexus/latest/qol-tweaks-nexus.dll)](https://github.com/proprene/qol-tweaks-nexus/releases/latest)
+
 # QoL-Tweaks (Nexus)
 
 Quality-of-life tweaks for Guild Wars 2, built as a [Nexus](https://github.com/RaidcoreGG/Nexus) addon.
